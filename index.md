@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 个人简历-徐高扬
 email:
   url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  text: Sumxmut@gmail.com
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
@@ -21,15 +21,15 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历Education 
 
-### **Carnegie Mellon University** `2018.9 -`
+### **厦门理工学院** `2009.9 -2013.9`
 
 ```
-Pittsburgh, PA
+厦门, 福建
 ```
 
-- Ph.D. in Software Engineering
+- 光信息科学与技术理学学士学位
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
 ### **Columbia University** `2016.9 - 2018.5`
