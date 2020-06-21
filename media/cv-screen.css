@@ -198,7 +198,9 @@ h3 strong {
 h3 {
   margin-top: 10px;
 }
-
+h4 {
+  margin-top: 10px;
+}
 code {
   font-family: "Palatino";
   font-style: italic;
