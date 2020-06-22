@@ -107,7 +107,7 @@ section {
 }
 body {
   line-height: 1;
-  border:2px solid color:#d1d1e0;
+  border:2px solid;
 }
 ol,
 ul {
