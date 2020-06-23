@@ -175,6 +175,9 @@ h1 strong {
   font-weight: normal !important;
   line-height: 1em;
 }
+h1 id {
+    height: 100px;
+}
 
 /* Section headers */
 h2 {
@@ -212,8 +215,8 @@ code {
   font-family: "Palatino";
   float: right;
   border-radius: 25px;
-  background: #eece02;
-	padding:9px;
+  color: #0f9fca;
+	
 }
 
 li:before {
