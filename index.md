@@ -4,11 +4,9 @@ title: 个人简历-徐高扬
 email:
   url: mailto:Sumxmut@gmail.com
   text: Sumxmut@gmail.com  
-homepage:
-  url: https://topgg.github.io/
-  text: 简历链接
 phone:
-  15805931383
+  url: 15805931383
+  text: 15805931383
 ---
 
 # 个人简历 徐高扬
