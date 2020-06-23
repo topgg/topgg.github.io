@@ -105,6 +105,9 @@ nav,
 section {
   display: block;
 }
+p {
+padding:4%;
+}
 body {
   line-height: 1;
  backgroud:#d1c8b8;
