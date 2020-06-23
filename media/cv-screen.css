@@ -107,6 +107,7 @@ section {
 }
 body {
   line-height: 1;
+	backgroud-color:#d1c8b8;
 }
 ol,
 ul {
@@ -158,14 +159,14 @@ h1 {
   text-align: center;
   /* font-size: 50pt; */
   font-size: 300%;
-  font-color: white;
+  color: white;
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
   position: relative;
   /* left: 28%; */
   border-radius: 10px;
-  background: #8c4716;
+  background: #805745;
   padding:50x 20px 30px 20px;
 }
 
@@ -209,7 +210,7 @@ code {
   font-family: "Palatino";
   float: right;
   border-radius: 25px;
-  background: #f0f348;
+  background: #eece02;
 	padding:9px;
 }
 
