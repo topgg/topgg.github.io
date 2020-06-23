@@ -224,7 +224,7 @@ li:before {
 
 li {
   /*second line indent*/
-  padding-left: 2.25em;
+  padding-left: 5%;
   text-indent: -1.25em;
   /*color: #777;*/
 }
@@ -235,7 +235,7 @@ li {
   font-weight: lighter;
   color: #ccc;
   /* font-family: Menlo,monospace,sans-serif; */
-  font-size: 80%;
+  font-size: 100%;
 }
 
 #contact-info a {
