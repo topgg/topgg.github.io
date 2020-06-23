@@ -206,7 +206,8 @@ code {
   font-style: italic;
   float: right;
   border-radius: 25px;
-  background: #8AC007;	
+  background: #8AC007;
+	padding:2px;
 }
 
 li:before {
