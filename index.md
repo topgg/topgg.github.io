@@ -9,7 +9,7 @@ homepage:
   text: 简历链接
 ---
 
-# 个人简历 **徐高扬**
+# 个人简历 徐高扬
 
 <!--
 include contact information from the front matter
