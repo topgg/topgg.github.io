@@ -5,8 +5,7 @@ email:
   url: mailto:Sumxmut@gmail.com
   text: Sumxmut@gmail.com  
 phone:
-  url: 15805931383
-  text: 15805931383
+  15805931383
 ---
 
 # 个人简历 徐高扬
