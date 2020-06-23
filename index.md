@@ -2,11 +2,13 @@
 layout: cv
 title: 个人简历-徐高扬
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: Sumxmut@gmail.com
+  url: mailto:Sumxmut@gmail.com
+  text: Sumxmut@gmail.com  
 homepage:
   url: https://topgg.github.io/
   text: 简历链接
+phone:
+  url:+86.15805931383
 ---
 
 # 个人简历 徐高扬
