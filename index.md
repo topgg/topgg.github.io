@@ -8,7 +8,7 @@ homepage:
   url: https://topgg.github.io/
   text: 简历链接
 phone:
-  url:+86.15805931383
+  **15805931383**
 ---
 
 # 个人简历 徐高扬
