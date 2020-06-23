@@ -106,7 +106,7 @@ section {
   display: block;
 }
 p {
-padding:4%;
+padding:4% 0 0 0;
 }
 body {
   line-height: 1;
