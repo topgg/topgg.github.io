@@ -166,7 +166,8 @@ h1 {
   position: relative;
   /* left: 28%; */
   border-radius: 10px;
-  background: #805745;
+  background: #0f9fca;
+  margin:30px 10px 30px 10px;
   padding:50x 20px 30px 20px;
 }
 
@@ -187,9 +188,10 @@ h2 {
   margin-top: 0.7em;
   margin-bottom: 0.5em;
   width: 100%;
+  color: #0f9fca;
 }
 h2:after {
-  border-bottom: 1.7px dashed #d3d3d3;
+  border-bottom: 2px dashed #0d94ce;
   /* height: 0.8em; */
   margin-left: 10px;
   content: "";
