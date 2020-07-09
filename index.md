@@ -18,7 +18,7 @@ Supported arguments:
     - email
 -->
 
-### 意向职位：铃盛 Product Analyst 
+### 意向职位：铃盛 Product Manager
 
 {% include cv-contact.html %}
 ---
